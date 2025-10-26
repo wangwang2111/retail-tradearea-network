@@ -15,9 +15,13 @@ The final result is an interactive **Power BI dashboard** that visualizes trade 
 ## 🚀 Features
 
 ✅ Drive-time **isochrone generation** (5–10–15 minutes) using ArcGIS Network Analyst
+
 ✅ **Demographic enrichment** with Census 2021 data (population, households, income)
+
 ✅ **Demand clustering** using K-Means and population-weighted mean centers
+
 ✅ **Huff model** for probabilistic demand and branch market share estimation
+
 ✅ **Power BI dashboard** with synchronized slicers, KPIs, and ArcGIS map layers
 
 
